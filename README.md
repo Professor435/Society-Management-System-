@@ -1,5 +1,5 @@
-**🏢 Society Management System – Smart Living Through Technology
-**
+Society Management System – Smart Living Through Technology
+
 Managing a residential society efficiently requires organization, transparency, and smart systems.
 
 I’m excited to share my Society Management System, a web-based project designed to simplify the management of residential communities by handling records, members, and daily operations through a modern dashboard.
