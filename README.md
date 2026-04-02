@@ -19,5 +19,7 @@ This project helped me understand how real-world management systems work while i
 Building solutions that improve everyday life is what motivates me. 💡
 Your feedback and suggestions are always welcome!
 
+#SocietyManagement #HousingSociety #PropertyManagement #CommunityPortal #Django #React #FullStack #ResidentPortal #MaintenanceManagement #ComplaintSystem #NoticeBoard #PaymentGateway #AmenityBooking #SecurityManagement #Database #WebApp #RealEstateTech #OpenSource
+
 
 contact for full version or final year projects (professorshami435@gmail.com)
