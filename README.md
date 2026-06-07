@@ -22,4 +22,4 @@ Your feedback and suggestions are always welcome!
 #SocietyManagement #HousingSociety #PropertyManagement #CommunityPortal #Django #React #FullStack #ResidentPortal #MaintenanceManagement #ComplaintSystem #NoticeBoard #PaymentGateway #AmenityBooking #SecurityManagement #Database #WebApp #RealEstateTech #OpenSource
 
 
-contact for full version or final year projects (professorshami435@gmail.com)
+contact for full version or FYP's (professorshami435@gmail.com) 
